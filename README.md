@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Constantin
+# Hi there 👋, I'm C-Kaenel
 
 🎓 IMS student in Switzerland with a focus on **Application Development**  
 💻 Proficient in multiple programming languages, my favorite **Rust**  
