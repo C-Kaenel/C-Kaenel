@@ -6,7 +6,7 @@
 🚀 Passionate about building efficient, clean, and maintainable code  
 
 ### 🔧 Skills
-- **Languages:** C#, Phyton, Rust  
+- **Languages:** C#, Python, Rust  
 - **Tools & Platforms:** Linux, Git  
 
 ### 🌱 Currently Learning
