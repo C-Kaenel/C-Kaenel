@@ -1,30 +1,38 @@
-# Hi there 👋, I'm C-Kaenel
+<div align="center">
 
-🎓 IMS student in Switzerland with a focus on **Application Development**  
-💻 Proficient in multiple programming languages, my favorite **Rust**  
-🐧 Experienced with **Linux-based systems** and open-source development  
-🚀 Passionate about building efficient, clean, and maintainable code  
+# C-Kaenel 👋
+**Systems & Backend Developer · IMS Student · Switzerland 🇨🇭**
 
-### 🔧 Skills
-- **Languages:** C#, Python, Rust  
-- **Tools & Platforms:** Linux, Git  
+[![Profile Views](https://visitcount.itsvg.in/api?id=C-Kaenel&icon=6&color=6)](https://visitcount.itsvg.in)
 
-### 🌱 Currently Learning
-- Advanced Rust programming  
-- System-level programming and performance optimization  
-- Data and Structuring
+</div>
 
-<!--
-**C-Kaenel/C-Kaenel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 💫 About Me
+- 🦀 Rust enthusiast — my go-to for anything performance-critical
+- ⚙️ Building **system tools**, **automation scripts** & **CLI applications**
+- 🐧 Linux-native, self-hosted home lab with Raspberry Pi
+- 📈 Currently deepening: **systems programming** & **backend architecture**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+
+---
+
+<div align="center">
+
+*Open to internships & working student positions in Backend, Systems or DevOps.*
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
