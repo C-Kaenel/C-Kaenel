@@ -9,11 +9,14 @@
 
 ## 💫 About Me
 
-- 🦀 Rust enthusiast — my go-to for anything performance-critical
-- ⚙️ Building **system tools**, **automation scripts** & **CLI applications**
-- 🐧 Linux-native, Developing Linux distros
-- 🤖 Into **Prompt Engineering** — designing & optimizing prompts for LLMs
-- 📈 Currently deepening: **systems programming** & **backend architecture**
+- 🦀 Rust enthusiast — my language of choice for performance-critical systems
+- ⚙️ Building **system tools**, **CLI applications** & **automation pipelines** from scratch
+- 🐧 Linux-native — self-hosted home lab on Raspberry Pi & actively developing **[Umbrella_OS](https://github.com/C-Kaenel/Umbrella_OS)**, a privacy-first Linux distro that blocks tracking by default
+- 🔐 Passionate about **privacy**, **open-source** & building software that respects the user
+- 🤖 Practising **Prompt Engineering** — crafting structured, optimised prompts for LLMs to achieve reliable, task-specific outputs
+- ✨ Perfectionist at heart — clean code, thoughtful architecture & attention to every detail
+- ⚡ 100x Developer mindset — ship fast, iterate faster, never stop learning
+- 📈 Currently deepening: **systems programming**, **backend architecture** & **OS development**
 
 ---
 
