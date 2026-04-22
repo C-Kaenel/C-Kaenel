@@ -1,7 +1,7 @@
 <div align="center">
 
 # C-Kaenel
-**Systems & Backend Developer · IMS Student · Switzerland 🇨🇭**
+**Systems & Backend & Aplication Developer · IMS Student · Switzerland 🇨🇭**
 
 </div>
 
