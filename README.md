@@ -13,7 +13,7 @@
 - ⚙️ Building **system tools**, **CLI applications** & **automation pipelines** from scratch
 - 🐧 Linux-native — Raspberry Pi home lab & author of **[Umbrella_OS](https://github.com/C-Kaenel/Umbrella_OS)**, a privacy-first Linux distro
 - 🔐 Passionate about **privacy**, **open-source** & building software that respects the user
-- 🤖 Practising **Prompt Engineering** - crafting structured, optimised prompts for LLMs to achieve reliable, task-specific outputs
+- 🤖 Practising **Prompt Engineering** - crafting structured, optimised prompts for LLMs to achieve reliable, outputs
 - ✨ Perfectionist at heart — clean code, thoughtful architecture & attention to every detail
 - ⚡ 100x Developer mindset — ship fast, iterate faster, never stop learning
 - 📈 Currently deepening: **systems programming**, **backend architecture** & **OS development**
