@@ -15,7 +15,7 @@
 - 🔐 Passionate about **privacy**, **open-source** & building software that respects the user
 - 🤖 Practising **Prompt Engineering** - crafting structured, optimised prompts for LLMs to achieve reliable, outputs
 - ✨ Perfectionist at heart — clean code, thoughtful architecture & attention to every detail
-- ⚡ 100x Developer mindset — ship fast, iterate faster, never stop learning
+- ⚡ 100x Developer mindset — ship fast, iterate faster, never stop learning and Improoving
 - 📈 Currently deepening: **systems programming**, **backend architecture** & **OS development**
 
 ---
